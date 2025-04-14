@@ -6,7 +6,7 @@ excerpt: "PEMF therapy is gaining attention in the weight loss industry. It uses
 
 coverImage: "/assets/blog/weight-loss-the-science-of-pemf-therapy/Weight Loss and the Science of PEMF Therapy.png"
 
-date: "2025-04-14T05:35:07.322Z"
+date: "2025-04-14T01:00:07.322Z"
 
 author:
 
