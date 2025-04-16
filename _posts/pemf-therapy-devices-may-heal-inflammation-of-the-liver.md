@@ -4,7 +4,7 @@ title: "PEMF Therapy Devices May Heal Inflammation of the Liver"
 
 excerpt: "Pulsed Electromagnetic Field (PEMF) therapy is gaining attention in medical research. Recent findings now suggest it may help liver inflammation."
 
-coverImage: "/assets/blog/pemf-therapy-devices-may-heal-inflammation-of-the-liver/cover.png"
+coverImage: "/assets/blog/pemf therapy-devices-may-heal-inflammation-of-the-liver/cover.png"
 
 date: "2025-04-16T011:00:07.322Z"
 
@@ -16,7 +16,7 @@ author:
 
 ogImage:
 
-  url: "/assets/blog/pemf-therapy-devices-may-heal-inflammation-of-the-liver/cover.png"
+  url: "/assets/blog/pemf therapy-devices-may-heal-inflammation-of-the-liver/cover.png"
 
 ---
 
