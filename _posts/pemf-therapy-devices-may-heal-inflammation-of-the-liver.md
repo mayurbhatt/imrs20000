@@ -6,7 +6,7 @@ excerpt: "Pulsed Electromagnetic Field (PEMF) therapy is gaining attention in me
 
 coverImage: "/assets/blog/pemf therapy-devices-may-heal-inflammation-of-the-liver/cover.png"
 
-date: "2025-04-16T012:00:07.322Z"
+date: "2025-04-16T01:00:07.322Z"
 
 author:
 
